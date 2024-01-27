@@ -68,7 +68,6 @@ I'm a third year in electronic and computing engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienGuitter&layout=donut&langs_count=6&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=JulienGuitter&style=flat-square&color=blue" alt=""/>
 
 
 ---
