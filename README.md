@@ -46,12 +46,10 @@ I'm a third year in electronic and computing engineering
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
-    <img src="https://5.imimg.com/data5/SELLER/Default/2023/12/369981375/LG/VW/AF/195873594/ad-logo-vertical-light-bg.png" alt="Altium" width="40" height="40"/>
+    <img src="https://minesspace.fr/assets/img/logos/altium.png" alt="Altium" width="40" height="40"/>
     <img src="https://media.imgcdn.org/repo/2023/07/stm32cubemx/64ba6a1ed1bc8-stm32cubemx-Icon.webp" alt="STM32" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="SolidWorks" width="80" height="40"/>
 </p>
-
-<img src="" alt="" width="40" height="40"/>
 
 
 ### Framework
