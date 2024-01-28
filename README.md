@@ -48,10 +48,9 @@ I'm a third year in electronic and computing engineering
     <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
     <img src="https://minesspace.fr/assets/img/logos/altium.png" alt="Altium" width="40" height="40"/>
     <img src="https://media.imgcdn.org/repo/2023/07/stm32cubemx/64ba6a1ed1bc8-stm32cubemx-Icon.webp" alt="STM32" width="40" height="40"/>
-    <img src="https://lh3.googleusercontent.com/proxy/ed9VLDcsj-QKqR95cHnNdh7HvGzOf1LJECaSVqpXrrNk_IhTbAq2d3JJ-rLcs7BKPXpPsHx0ABjYRj--aUfhS_18apcf2WNFPeg" alt="Vivado" width="100" height="30"/>
+    <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="Vivado" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/solidworks-logo-1.svg" alt="SolidWorks" width="80" height="40"/>
 </p>
-
 
 ### Framework
 <p align="left">
